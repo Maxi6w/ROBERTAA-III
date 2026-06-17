@@ -1,0 +1,1 @@
+El proyecto consiste en el desarrollo de un robot móvil controlado mediante una aplicación propia, capaz de desplazarse en distintas direcciones utilizando cuatro motores que simulan patas. Además, incorporará una cámara térmica que permitirá la visualización
